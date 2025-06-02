@@ -1,2 +1,1 @@
-# mi-primer-repo
-tp en clase
+# Mi primer repositorio
